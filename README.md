@@ -8,7 +8,7 @@ Usage:
 Download the file or directly paste this link to iptv player
 
 
-https://dayat92.github.io/pribadi/idwork.m3u
+https://dayat92.github.io/idwork.m3u
 
 If your iptv is too old, you might get ssl error.
 Download the file manually then import the file
